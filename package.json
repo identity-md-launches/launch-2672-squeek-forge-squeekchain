@@ -1,0 +1,11 @@
+{
+  "name": "squeek-forge",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zero-dependency, single-file Squeekchain forging dashboard",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "typecheck": "node scripts/typecheck.mjs"
+  }
+}
